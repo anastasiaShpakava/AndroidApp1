@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="layout_width_edit_text">300dp</dimen>
+    <dimen name="layout_height_edit_text">70dp</dimen>
+    <dimen name="layout_marginLeft_editText">12dp</dimen>
+
+    <dimen name="layout_width_button">70dp</dimen>
+    <dimen name="layout_height_button">80dp</dimen>
+    <dimen name="layout_weight_button">70dp</dimen>
+    <dimen name="layout_marginRight_button">12dp</dimen>
+    <dimen name="layout_marginLeft_button">11dp</dimen>
+</resources>
+
